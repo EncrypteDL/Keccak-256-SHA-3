@@ -193,6 +193,3 @@ func main() {
 
 
 ## Contributing
-
-
-### Contact Information
