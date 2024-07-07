@@ -1,0 +1,6 @@
+Input: Hello, world!
+Keccak-256 Hash: 644bcc7e564373040e3fd35074d0f9201bb59e4c661ad49d9d0e60734531e4dc
+
+
+Input: Envddudv
+Keccak-256 Hash: 564ht3dv7773hnn40e3fd35074d0f9201bb59e4c661ad49d9d0e60734531e4dc
